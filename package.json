@@ -1,0 +1,16 @@
+{
+  "name": "electron-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^0.26.1",
+    "esri-leaflet": "^1.0.0-rc.7",
+    "leaflet": "^0.7.3"
+  }
+}
